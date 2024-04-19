@@ -1,0 +1,2 @@
+Estoy en la primera línea del archivo 1
+Estoy en la segunda línea del archivo 1
